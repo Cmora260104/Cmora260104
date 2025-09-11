@@ -110,7 +110,5 @@
 ### 💼 **¿Interesado en trabajar conmigo?**
 *Estoy disponible para proyectos de desarrollo, implementaciones de Odoo ERP y consultoría técnica*
 
-![Profile Views](https://komarev.com/ghpvc/?username=cmora260104&color=blue&style=flat-square&label=Profile+Views)
-
 </div>
 

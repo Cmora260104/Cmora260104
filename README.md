@@ -12,13 +12,14 @@
 
 ## 🚀 Sobre Mí
 
-👨‍💻 **Estudiante de Ingeniería en Computación** en la Universidad Nacional de Ingeniería (UNI) - 5to año
+👨‍💻 **Ingeniero en Computación** — Egresado con formación en desarrollo de software y sistemas empresariales
 
-🎯 **Especialista en Odoo ERP** con experiencia en implementaciones, configuraciones de servidor y optimización de procesos empresariales
+🎯 **Especialista en Odoo ERP** (v15 a v19): desarrollo, implementación, configuración de servidores, migraciones y consultoría
 
-💡 **Apasionado por el aprendizaje continuo** y el fortalecimiento de habilidades técnicas en el desarrollo de software
+💡 **Enfoque en soluciones integrales**: desde instalaciones on‑premise hasta despliegues en **Odoo.sh**, con soporte continuo y optimización de procesos
 
 ---
+
 ## 🛠️ Tecnologías y Habilidades
 
 <div align="center">
@@ -63,27 +64,21 @@
 
 </div>
 
-### 🎯 **Versiones de Odoo**
-- **Odoo 16** - Implementación y desarrollo
-- **Odoo 17** - Configuración y personalización  
-- **Odoo 18** - Migración y optimización
+### 🎯 **Versiones**
+- **Odoo 15** · **Odoo 16** · **Odoo 17** · **Odoo 18** · **Odoo 19** — Desarrollo, implementación y migraciones
 
-### 🚀 **Servicios Especializados**
-- ✅ **Implementación** completa de sistemas ERP
-- ✅ **Soporte técnico** y mantenimiento continuo
-- ✅ **Adaptaciones** y personalizaciones específicas
-- ✅ **Configuración** de servidores y entornos
-- ✅ **Optimización** de procesos empresariales
-- ✅ **Desarrollo** con Framework Odoo
-- ✅ **Migración** entre versiones
-
+### 🚀 **Servicios**
+- ✅ **Desarrollo** — Módulos, personalizaciones y extensiones sobre el framework Odoo
+- ✅ **Implementación** — **On‑premise** y **Odoo.sh** (diseño, despliegue y puesta en marcha)
+- ✅ **Configuración de servidor** — Instalación, tuning y mantenimiento de entornos
+- ✅ **Migraciones** — Entre versiones y entre instalaciones (on‑premise ↔ Odoo.sh)
+- ✅ **Consultoría** — Análisis de procesos, recomendaciones y optimización de uso de Odoo
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmora260104&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -108,7 +103,6 @@
 <div align="center">
 
 ### 💼 **¿Interesado en trabajar conmigo?**
-*Estoy disponible para proyectos de desarrollo, implementaciones de Odoo ERP y consultoría técnica*
+*Disponible para desarrollo en Odoo, implementaciones (on‑premise y Odoo.sh), configuraciones de servidor, migraciones y consultoría*
 
 </div>
-
